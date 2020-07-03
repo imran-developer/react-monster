@@ -10,7 +10,6 @@ class App extends Component {
             monsters : [],
             searchField : ''
         };
-        //this.handleChange = this.handleChange.bind(this);
     }
 
     componentDidMount(){
